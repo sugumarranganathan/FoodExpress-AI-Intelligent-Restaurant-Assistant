@@ -96,64 +96,6 @@ restaurant-ordering/
 └── README.md
 ```
 
----
-
-# ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/sugumarranganathan/FoodExpress-AI-Intelligent-Restaurant-Assistant.git
-```
-
-Go into the project
-
-```bash
-cd FoodExpress-AI-Intelligent-Restaurant-Assistant
-```
-
-Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment
-
-Linux / Chromebook
-
-```bash
-source venv/bin/activate
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-python app.py
-```
-
----
-
-# 🔑 Environment Variables
-
-Create a `.env` file.
-
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-```
-
-For Google Sheets, configure your service account credentials securely (for example, using an environment variable or another secret-management method) instead of committing credentials to the repository.
-
----
-
-# 📸 Screenshots
-
 ## Home Page
 
 - Beautiful Restaurant Landing Page
@@ -173,35 +115,8 @@ For Google Sheets, configure your service account credentials securely (for exam
 - Checkout
 - Order Confirmation
 
----
 
-# 📈 Future Improvements
+# 👨‍💻 Developed by
 
-- Online Payment Gateway
-- User Login
-- Admin Dashboard
-- Order Tracking
-- Voice Ordering
-- WhatsApp Integration
-- Multi-language Support
+**R. Sugumar, M.B.A.,**
 
----
-
-# 👨‍💻 Author
-
-**Sugumar Ranganathan**
-
-MBA | AI Developer | Python | Flask | Google Gemini AI
-
-GitHub:
-https://github.com/sugumarranganathan
-
----
-
-# 📄 License
-
-This project is intended for educational and portfolio purposes.
-
----
-
-⭐ If you like this project, please give it a Star!
