@@ -6,7 +6,7 @@ The system allows customers to browse the restaurant menu, place food orders, an
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🌐 Website:
 https://restaurant-ordering-cjoq.onrender.com
